@@ -409,7 +409,7 @@
                </div>
             </div>
             <div type="textpart" n="2" subtype="book">
-               <div type="textpart" n="pr" xml:id="poem.34" subtype="poem">
+               <div type="textpart" n="praef" xml:id="poem.34" subtype="poem">
                   <head>Praefatio</head>
                   
                   <l n="1">Otia sopitis ageret cum cantibus Orpheus</l>
